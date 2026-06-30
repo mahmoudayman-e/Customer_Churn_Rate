@@ -3,12 +3,15 @@
 <img width="2453" height="2267" alt="Telco_Customer_Churn_Rate-1" src="https://github.com/user-attachments/assets/e0ae052d-03ae-40fa-99ef-9f6fbf7b8805" />
 
 📌 Project Overview
+
 This project analyzes customer churn behavior for a Telco company using SQL for data exploration and Power BI for interactive dashboard visualization. The goal is to identify key factors driving customer churn and provide actionable insights to improve retention strategies.
 
 🔢 Key KPIs
+
 MetricValue👥 Total Active Customers7,032❌ Churned Customers1,869📉 Overall Churn Rate26.58%💰 Avg Monthly Charges$64.80
 
 📁 Project Structure
+
 📦 Telco-Customer-Churn-Analysis
 ├── 📊 Telco_Customer_Churn_Rate.pbix     # Power BI Dashboard
 ├── 📄 Telco_Customer_Churn_Rate.pdf      # Dashboard Export (PDF)
@@ -84,6 +87,7 @@ Review pricing for high monthly charge tiers to reduce churn
 
 
 📂 Dataset
+
 The dataset (Telco_Customer_Churn.csv) contains customer-level information including:
 
 Demographics (gender, senior citizen status)
